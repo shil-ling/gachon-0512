@@ -1,6 +1,2 @@
 opencv-python
-mediapipe
 numpy
-pandas
-scikit-learn
-joblib
